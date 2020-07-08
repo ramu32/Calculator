@@ -1,0 +1,169 @@
+[16:01:15] [Info] Element 'AutomationId: MenuBar' not found 
+[16:01:56] [Info] Element 'AutomationId: MenuBar' not found 
+[16:34:51] [Info] Element 'AutomationId: MenuBar' not found 
+[16:38:13] [Info] Element 'AutomationId: 132' not found 
+[17:17:18] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[17:17:49] [Info] Element 'AutomationId: MenuBar' not found 
+[17:21:20] [Info] Element 'AutomationId: MenuBar' not found 
+[17:23:37] [Info] Element 'AutomationId: 132' not found 
+[17:25:17] [Info] Element 'AutomationId: 2' not found 
+[17:26:18] [Info] Element 'AutomationId: 2' not found 
+[17:27:50] [Info] Click on 'type: ControlType.Button, uid: num1Button, name: One' element at (240, 873) ClickablePoint 
+[17:28:00] [Info] Element 'AutomationId: 2' not found 
+[17:29:25] [Info] Click on 'type: ControlType.Button, uid: num1Button, name: One' element at (240, 873) ClickablePoint 
+[17:29:25] [Info] Click on 'type: ControlType.Button, uid: num1Button, name: One' element at (240, 873) ClickablePoint 
+[17:29:26] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[17:29:26] [Info] Click on 'type: ControlType.Button, uid: num1Button, name: One' element at (240, 873) ClickablePoint 
+[17:32:55] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 656) ClickablePoint 
+[17:32:55] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[17:32:56] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[17:32:56] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[17:32:57] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[17:33:07] [Info] Element 'Name: Equal' not found 
+[17:33:48] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (676, 656) ClickablePoint 
+[17:33:49] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[17:33:49] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[17:33:50] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[17:33:50] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[17:33:51] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[17:38:00] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (676, 656.5) ClickablePoint 
+[17:38:01] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[17:38:02] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[17:38:02] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[17:38:03] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[17:38:03] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[17:53:58] [Debug] Element 'type: ControlType.Button, name: Join a Meeting' not have ClickablePoint 
+[17:53:59] [Info] Click on 'type: ControlType.Button, name: Join a Meeting' element at (960, 518) BoundingRectangle center 
+[17:54:09] [Info] Element 'Name: Eight' not found 
+[18:07:11] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[18:07:12] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[18:07:12] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[18:07:13] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[18:07:13] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[18:07:14] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[18:07:47] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 656) ClickablePoint 
+[18:07:47] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[18:07:48] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[18:07:48] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[18:07:49] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[18:07:49] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[15:44:24] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[15:44:25] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[15:44:25] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[15:44:26] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[15:44:26] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[15:44:26] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[15:44:26] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[15:44:27] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[15:44:27] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[15:44:27] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[15:44:27] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[15:44:28] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:02:37] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[16:02:38] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[16:02:38] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[16:02:39] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[16:02:39] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[16:02:40] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[16:14:14] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:14:15] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:14:15] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:14:15] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:14:15] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:14:16] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:14:16] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:14:17] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:14:17] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:14:17] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:14:17] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:14:18] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:20:46] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[16:20:46] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[16:20:47] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[16:20:47] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[16:20:48] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[16:20:48] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[16:23:01] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:23:02] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:23:02] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:23:02] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:23:02] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:23:03] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:23:03] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:23:03] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:23:03] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:23:04] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:23:04] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:23:05] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:26:08] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[16:26:08] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[16:26:09] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[16:26:09] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[16:26:10] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[16:26:11] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[16:28:30] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[16:28:31] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[16:28:31] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[16:28:32] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[16:28:32] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[16:28:33] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[18:00:32] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[18:00:32] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[18:00:33] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[18:00:33] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[18:00:34] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[18:00:34] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[16:02:32] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 670) ClickablePoint 
+[16:02:33] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 670) ClickablePoint 
+[16:02:33] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 873) ClickablePoint 
+[16:02:34] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771) ClickablePoint 
+[16:02:34] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 670) ClickablePoint 
+[16:02:35] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 975) ClickablePoint 
+[16:03:10] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:03:10] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:03:10] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:03:11] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:03:11] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:03:12] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:03:12] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:03:12] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:03:12] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:03:13] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:03:13] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:03:13] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:03:57] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:03:58] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:03:58] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:03:59] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:03:59] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:03:59] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:03:59] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:04:00] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:04:00] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:04:00] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:04:00] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:04:01] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:04:24] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:04:25] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:04:25] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:04:25] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:04:25] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:04:26] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:04:26] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:04:26] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:04:26] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:04:27] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:04:27] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:04:28] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
+[16:05:18] [Debug] Element 'type: ControlType.Button, uid: num9Button, name: Nine' not have ClickablePoint 
+[16:05:18] [Info] Click on 'type: ControlType.Button, uid: num9Button, name: Nine' element at (677, 669.5) BoundingRectangle center 
+[16:05:18] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[16:05:19] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (458, 669.5) BoundingRectangle center 
+[16:05:19] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[16:05:19] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (895, 872.5) BoundingRectangle center 
+[16:05:19] [Debug] Element 'type: ControlType.Button, uid: num6Button, name: Six' not have ClickablePoint 
+[16:05:20] [Info] Click on 'type: ControlType.Button, uid: num6Button, name: Six' element at (677, 771.5) BoundingRectangle center 
+[16:05:20] [Debug] Element 'type: ControlType.Button, uid: num7Button, name: Seven' not have ClickablePoint 
+[16:05:21] [Info] Click on 'type: ControlType.Button, uid: num7Button, name: Seven' element at (240, 669.5) BoundingRectangle center 
+[16:05:21] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[16:05:21] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (895, 974.5) BoundingRectangle center 
